@@ -1,1 +1,1 @@
-# -kddcup24.github.io
+# kddcup24.github.io
